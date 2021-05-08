@@ -1,5 +1,5 @@
 function Cat () {
-	// body...
+	this.stomatch = [];
 }
 
 module.exports = Cat;
